@@ -1,6 +1,11 @@
 {
   "clientes": [
     {
+      "nombre": "hiram",
+      "empresa": "pspi",
+      "email": "hiramavilaa@gmail.com",
+      "telefono": "455332245",
+      "notas": "hola",
       "id": 1
     }
   ]
